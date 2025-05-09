@@ -34,7 +34,8 @@ proceed with reload? [confirmation] (enter)
 ![Screenshot (74)](https://github.com/user-attachments/assets/a2264579-a289-4b39-8367-3bd6f8c1d50a)
 
 in the next screenshot you will be prompted to either confirm to start with the initial configurations or not, you enter NO.
-# display message - would you like to enter the initial configuration dialog? [yes/no]?
+--
+display message - would you like to enter the initial configuration dialog? [yes/no]?
 ![Screenshot (75)](https://github.com/user-attachments/assets/81247def-6e8b-4f9f-a239-fbf5b9e2c994)
 
 here the device has been rebooted.
