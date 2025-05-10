@@ -8,7 +8,7 @@ I am going to be using packet tracer to perform the configurations.
 
                                             Load the Startup Configuration
 To load the startup configuration you will need a router or switch to operate on.
-![Screenshot (69)](https://github.com/user-attachments/assets/fbdbc489-c622-4431-9bab-ce9ba7c8557b)
+![Screenshot (69)](https://raw.githubusercontent.com/AlexChirwa/CCNA-Cisco-IOS-operating-system/refs/heads/main/Screenshots/Screenshot%20(69).png)
 
                                                 Connect to the device
 We then click on the router to access the CLI (Command Line Interface).
